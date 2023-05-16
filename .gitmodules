@@ -1,0 +1,4 @@
+[submodule "baz"]
+	path = baz
+	url = ./baz
+	datalad-id = 2302dc1a-7bac-4d82-958d-b86aee1acff8
