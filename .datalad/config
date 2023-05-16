@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = 6fcdedca-89ec-488b-8694-ae4ddbacc7be
+[datalad "get"]
+	subdataset-source-candidate-000-myPreferredRiaStore = "ria+ssh://juseless.inm7.de/home/mszczepanik/ria-may16-02#{id}"
